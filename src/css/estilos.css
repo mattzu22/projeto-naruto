@@ -85,7 +85,7 @@ main .personagem .imagem {
 
 .botoes .botao.selecionado {
   transform: scale(1.2);
-  box-shadow: 0 0 10px #d9d9d9;
+  box-shadow: 0 0 10pxrgb(72, 250, 1);
 }
 
 .botoes .botao.cyberstorm.selecionado {
